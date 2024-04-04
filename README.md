@@ -21,7 +21,9 @@ Tools: Excel, Scikit learn, Matplotlib, Pandas, Jupyter Notebook, SQLAlchemy, Mo
 Professional Certificate in Data Science & Visualization, Northwestern University
 
 Email: nataliamitchell19@gmail.com
+
 LinkedIn: https://www.linkedin.com/in/nataliamitchell1219
+
 GitHub: You're already here! Check out my projects.
 
 <!---
