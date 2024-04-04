@@ -1,4 +1,4 @@
-###Hello, world! 😉 I'm Natalia.
+##Hello, world! 😉 I'm Natalia.
 
 I'm a passionate Data Analyst based in the beautiful city of Chicago. With a knack for transforming complex datasets into insightful and actionable information, I thrive on using my technical skills to solve challenging problems and drive decision-making processes. My goal is to use data to help drive positive changes in society, leveraging the power of analytics to uncover insights that can lead to more informed decisions and impactful actions. By harnessing the vast amounts of information available today, I aim to identify patterns and trends that can guide policy development, improve community services, and enhance the overall quality of life. Whether it's through public health initiatives, environmental conservation, or educational reforms, I believe that data-driven strategies can lead to sustainable solutions that address some of our most pressing challenges. Through collaboration with organizations and stakeholders, I am committed to transforming data into meaningful outcomes that can make a real difference in the world.
 
