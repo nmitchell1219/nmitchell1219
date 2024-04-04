@@ -18,10 +18,11 @@ Applications: GitHub, MySQL, PostgreSQL, SQLite, GIT, Command Line, Terminal
 Tools: Excel, Scikit learn, Matplotlib, Pandas, Jupyter Notebook, SQLAlchemy, MongoDB
 
 
-##How to reach me:
-
+You can reach me at...
 Email: nataliamitchell19@gmail.com
+
 LinkedIn: https://www.linkedin.com/in/nataliamitchell1219
+
 GitHub: You're already here! Check out my projects.
 
 <!---
