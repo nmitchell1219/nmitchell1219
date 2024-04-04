@@ -15,7 +15,7 @@ You can reach me at...
 
 📧Email: nataliamitchell19@gmail.com<br>
 🔗LinkedIn: https://www.linkedin.com/in/nataliamitchell1219<br>
-💻skill emopGitHub: You're already here! Check out my projects.<br>
+💻GitHub: You're already here! Check out my projects.<br>
 
 <!---
 nmitchell1219/nmitchell1219 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
