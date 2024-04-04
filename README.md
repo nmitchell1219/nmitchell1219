@@ -19,6 +19,7 @@ Tools: Excel, Scikit learn, Matplotlib, Pandas, Jupyter Notebook, SQLAlchemy, Mo
 
 
 You can reach me at...
+
 Email: nataliamitchell19@gmail.com
 
 LinkedIn: https://www.linkedin.com/in/nataliamitchell1219
