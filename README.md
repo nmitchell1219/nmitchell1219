@@ -4,18 +4,18 @@ I'm a passionate Data Analyst based in the beautiful city of Chicago. With a kna
 
 I recently received my Professional Certificate in Data Science & Visualization through Northwestern University, where I learned the following invaluable skills...
 
-Data Analysis and Visualization: Transforming raw data into visually compelling stories.
-Statistical Modeling: Applying statistical models to data to predict and analyze trends.
-Automation and Efficiency: Streamlining processes to save time and improve accuracy.
-Languages: Python, JavaScript, SQL, NoSQL, VBA, API/JSON
-Applications: GitHub, MySQL, PostgreSQL, SQLite, GIT, Command Line, Terminal
-Tools: Excel, Scikit learn, Matplotlib, Pandas, Jupyter Notebook, SQLAlchemy, MongoDB
+🔘Data Analysis and Visualization: Transforming raw data into visually compelling stories.<br>
+🔘Statistical Modeling: Applying statistical models to data to predict and analyze trends.<br>
+🔘Automation and Efficiency: Streamlining processes to save time and improve accuracy.<br>
+🔘Languages: Python, JavaScript, SQL, NoSQL, VBA, API/JSON<br>
+🔘Applications: GitHub, MySQL, PostgreSQL, SQLite, GIT, Command Line, Terminal<br>
+🔘Tools: Excel, Scikit learn, Matplotlib, Pandas, Jupyter Notebook, SQLAlchemy, MongoDB<br>
 
 You can reach me at...
 
-Email: nataliamitchell19@gmail.com
-LinkedIn: https://www.linkedin.com/in/nataliamitchell1219
-GitHub: You're already here! Check out my projects.
+📧Email: nataliamitchell19@gmail.com<br>
+🔗LinkedIn: https://www.linkedin.com/in/nataliamitchell1219<br>
+💻skill emopGitHub: You're already here! Check out my projects.<br>
 
 <!---
 nmitchell1219/nmitchell1219 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
