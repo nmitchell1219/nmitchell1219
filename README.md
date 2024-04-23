@@ -12,7 +12,7 @@ I'm a passionate Data Analyst based in the beautiful city of Chicago. With a kna
 
 🔘Languages: Python, JavaScript, SQL, NoSQL, VBA, API/JSON<br>
 🔘Applications: GitHub, MySQL, PostgreSQL, SQLite, GIT, Command Line, Terminal<br>
-🔘Tools: Excel, Scikit learn, Matplotlib, Pandas, Jupyter Notebook, SQLAlchemy, MongoDB<br>
+🔘Tools: Excel, Scikit learn, Matplotlib, Pandas, Jupyter Notebook, SQLAlchemy, MongoDB, Machine Learning<br>
 
 ### Education: 
 
