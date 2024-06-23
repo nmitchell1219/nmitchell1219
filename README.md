@@ -21,7 +21,7 @@ Professional Certificate in Data Science & Visualization, Northwestern Universit
 ### How you can reach me:
 
 📧Email: nataliamitchell19@gmail.com<br>
-🔗LinkedIn: https://www.linkedin.com/in/nataliamitchell1219<br>
+🔗LinkedIn: https://www.linkedin.com/in/natalia-mitchell<br>
 💻GitHub: You're already here! Check out my projects.<br>
 
 <!---
